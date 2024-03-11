@@ -1,0 +1,1 @@
+loadBalance=github.myc.loadbalance.loadbalancer.ConsistentHashLoadBalance

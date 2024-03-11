@@ -1,0 +1,3 @@
+kyro=github.myc.serialize.KryoSerializer
+protostuff=github.myc.serialize.ProtostuffSerializer
+hessian=github.myc.serialize.HessianSerializer

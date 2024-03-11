@@ -1,0 +1,2 @@
+netty=github.myc.remoting.transport.netty.client.NettyRpcClient
+socket=github.myc.remoting.transport.socket.SocketRpcClient
